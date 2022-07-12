@@ -1,0 +1,15 @@
+start with class name
+
+declare int n=231, reverse = 0;
+
+using while loop while(n!=0) 
+
+inside loop int rem = n %10;
+rev = rev*10+rem
+nun/10;
+
+print rev
+
+
+	
+	

@@ -1,0 +1,14 @@
+start with class name
+
+intitalize local variable int i, num=5, sum=0;
+
+using for loop (i=1 i<=num; i++)
+
+inside loop sum = sum+i;
+
+printing sum
+
+closing loop
+ 
+
+
